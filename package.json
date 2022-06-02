@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "callback:challenge": "node src/Challenge/challenge.js"
+    "callback:challenge": "node src/Challenge/challenge.js",
+    "promise": "node src/Promise/index.js",
+    "promise:cahllenge": "node src/Promise/challenge2.js"
   },
   "author": "devRioma",
   "license": "MIT",
